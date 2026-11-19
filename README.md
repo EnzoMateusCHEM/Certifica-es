@@ -1,2 +1,16 @@
 # Certifications
 Certificações e participações em eventos técnicos e correlacionados à química.
+[C.CRQFISPQ.pdf](https://github.com/user-attachments/files/35107546/C.CRQFISPQ.pdf)
+[Certificado.auxiliarquim.pdf](https://github.com/user-attachments/files/35107584/Certificado.auxiliarquim.pdf)
+[certifbrasdesco.pdf](https://github.com/user-attachments/files/35107579/certifbrasdesco.pdf)
+[C.SIRGTECpit.pdf](https://github.com/user-attachments/files/35107577/C.SIRGTECpit.pdf)
+[C.MECAUTOM.pdf](https://github.com/user-attachments/files/35107574/C.MECAUTOM.pdf)
+[C.DESVENDANDOIND4.0.pdf](https://github.com/user-attachments/files/35107569/C.DESVENDANDOIND4.0.pdf)
+[Cromatografando.Certificado.pdf](https://github.com/user-attachments/files/35107653/Cromatografando.Certificado.pdf)
+[Fundamentos_da_Automação_de_Processos_Industriais-Certificado_29387592026.pdf](https://github.com/user-attachments/files/35107651/Fundamentos_da_Automacao_de_Processos_Industriais-Certificado_29387592026.pdf)
+[Excel_B_C3_A1sico-Certificado_2941797.pdf](https://github.com/user-attachments/files/35107649/Excel_B_C3_A1sico-Certificado_2941797.pdf)
+[CURSOQualif.Fornec.Farmácia.pdf](https://github.com/user-attachments/files/35107635/CURSOQualif.Fornec.Farmacia.pdf)
+[cursoCRQ.HPLCeESPECTRO.quimanalitica.pdf](https://github.com/user-attachments/files/35107632/cursoCRQ.HPLCeESPECTRO.quimanalitica.pdf)
+[CursoCRQ.CromLíquida.pdf](https://github.com/user-attachments/files/35107629/CursoCRQ.CromLiquida.pdf)
+[CURSO.Resp.Tec.pdf](https://github.com/user-attachments/files/35107624/CURSO.Resp.Tec.pdf)
+[Certificado.cálculosessenciaisemlab.pdf](https://github.com/user-attachments/files/35107611/Certificado.calculosessenciaisemlab.pdf)
